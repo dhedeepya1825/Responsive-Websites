@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.ecommercedeals-electronics-section-head{
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: bold;
+    color:#183b56;
+}
+.ecommercedeals-section-card-item-head{
+    font-family: "Roboto";
+    font-size: 26px;
+    font-weight: bold;
+    color:#183b56;
+}
+.ecommercedeals-electronics-section-card-item{
+    border-radius:10px;
+}
+.ecommercedeals-section-card-item-img{
+    height: 70px;
+    width:80x;
+    border-radius:22px;
+}
+.ecommercedeals-electronics-section-card-item-title{
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: normal;
+    color:#183b56;
+    text-align:center;
+}
+.ecommercedeals-section-card-item-nav-item{
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+    color:#ff9f00;
+}
+.ecommercedeals-appliances-section-card-item-img{
+    height:150px;width:150px;
+    border-radius:22px;
+}

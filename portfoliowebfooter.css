@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.portfoliofooter-section{
+    background-color:#0d2436;
+}
+.portfoliofooter-section-img{
+    height:80px;
+    width:80px;
+    border-radius:50px;
+}
+.portfoliofooter-section-head{
+    color:#cced00;
+    font-family:"Roboto";
+    font-weight: 700;
+    font-size:24px;
+}
+.portfoliofooter-section-para{
+    color:#9aa5b1;
+    font-family:"Roboto";
+    font-weight: 100;
+    font-size:16px;
+}
+.portfoliofooter-section-icon{
+    color:#5a7184;
+    font-size:24px;
+}
+.portfoliofooter-section-copyright{
+    background-color:#001c32 ;
+}
+.portfoliofooter-section-copyright-highlight{
+    color:#9aa5b1;
+    font-family:"Roboto";
+    font-weight: 100;
+    font-size:16px;
+}

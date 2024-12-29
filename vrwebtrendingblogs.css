@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.vrwebtrendingblogs-head{
+    font-family:"Roboto";
+    color:#1f2933;
+    font-weight:bold;
+    font-size:45px;
+}
+.vrwebtrendingblogs-card-bg-container{
+    border-top-right-radius:16px;
+    border-top-left-radius:16px;
+
+
+}
+
+.vrwebtrendingblogs-card-head{
+    font-family:"Roboto";
+    color:#959ead;
+    font-weight:100;
+    font-size:18px;
+}
+.vrwebtrendingblogs-card-para{
+    font-family:"Roboto";
+    color:#323f4b;
+    font-weight:300;
+    font-size:26px;
+}
+.vrwebtrendingblogs-card-link{
+    color:#1754a1;
+    font-weight:bold;
+    font-size:18px;
+    font-family:"Roboto";
+}
+#vrwebtrendingblogs-button{
+    width:140px;
+    background-color:#1754a1;
+}
